@@ -1,5 +1,5 @@
 {
-  "name": "object-compare",
+  "name": "object-compare-function",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "object",
     "compare"
   ],
-  "author": "zg",
+  "author": "ilp64",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ilp64/object-compare/issues"
