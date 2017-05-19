@@ -1,4 +1,4 @@
-module.exports = function (o1, o2) {
+function objectCompare(o1, o2) {
 	if (o1 === null) {
 		o1 = {};
 	}
@@ -26,3 +26,5 @@ module.exports = function (o1, o2) {
 	}
 	return 1;
 };
+
+module.exports = objectCompare;
