@@ -1,1 +1,1 @@
-# It is just a test module, please don't use it.
+# A simple object compare module
