@@ -3,7 +3,7 @@
 ## Usage
 
 
-		var compare = require('./object-compare-function');
+		var compare = require('object-compare-function');
 		var result = compare({name: 'object1'}, {name: 'object2'});
 
 		console.log(result);
