@@ -1,6 +1,6 @@
 {
   "name": "object-compare-function",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A object compare module",
   "main": "index.js",
   "scripts": {
